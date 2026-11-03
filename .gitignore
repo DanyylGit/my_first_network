@@ -1,0 +1,17 @@
+# Скомпилированный байт-код
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения (никогда не коммитьте их!)
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook (спасает от мусора и конфликтов)
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Скрытые папки с настройками Jupyter
+.jupyter/
